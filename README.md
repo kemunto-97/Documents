@@ -34,6 +34,7 @@ tr:nth-child(odd) {
   <th> Course </th>
   <th>Surpervisor</th>
   <th>Topic </th>
+  <th>county </th>
  </tr>
 
 <tr>
@@ -43,6 +44,7 @@ tr:nth-child(odd) {
   <td> GEGIS </td>
   <td>       </td>
   <td>EFFECTS OF LAND COVER PATTERN ON LAND SURFACE TEMEPERATURE IN URBAN LANDSCAPES:A case study of Nairobi</td>
+  <td> Nairobi </td>
   </tr>
 
 <tr>
@@ -52,6 +54,7 @@ tr:nth-child(odd) {
   <td> GIS </td>
   <td>Mr.C Wasomi</td>
   <td>FLOOD SUSCEPTIBILITY MAPPING USING FREQUENCY RATIO </td>
+  <td> Nairobi </td>
  </tr>
 
 <tr>
@@ -61,7 +64,7 @@ tr:nth-child(odd) {
  <td> GIS </td>
  <td> Mr.J.Mwaura </td>
  <td> CRIME  INFORMATION MANAGEMENT  AND AUTOMATION USING WEBGIS AND USSD </td>
- <td></td>
+ <td> Nairobi </td>
 </tr>
 
 <tr>
@@ -71,6 +74,7 @@ tr:nth-child(odd) {
  <td> GEGIS </td>
  <td>      </td>
  <td> GIS IN SOLID WASTE MANAGEMENT .A case study of Gate  C JUJA.</td>
+ <td> Nairobi </td>
  </tr>
 
 <tr>
@@ -80,6 +84,7 @@ tr:nth-child(odd) {
  <td>GEGIS </td>
  <td>       </td>
  <td> An assesment of the geophysical and socio economic drivers of deforestation: a case study of Cherangany Forest </td>
+ <td> TRANSNZOIA </td>
 </tr>
 
 <tr>
@@ -89,6 +94,7 @@ tr:nth-child(odd) {
 <td> GEGIS  </td>
 <td> Dr.F Mutua </td>
 <td> REAL TIME AUTOMATED SYSTEM  WATER QUALITY MONITORING  SYSTEM </td>
+<td> Nairobi </td>
  </tr>
 
 <tr>
@@ -98,6 +104,7 @@ tr:nth-child(odd) {
 <td>GIS </td>
 <td> Dr.T Ngigi </td>
 <td> Application of remote sensing and GIS in soil salinity Mapping :A case  Study of Baringo  County </td>
+<td> Baringo </td>
 </tr>
 
 <tr>
@@ -107,6 +114,7 @@ tr:nth-child(odd) {
 <td> GIS </td>
 <td> Dr.T Ngigi </td>
 <td> Habitat Quality Mapping in the Maasai Mara Ecosytem </td>
+<td> NAROK </td>
  </tr>
 
 <tr>
@@ -116,6 +124,7 @@ tr:nth-child(odd) {
 <td> GEGIS </td>
 <td>Dr F Kirimi </td>
 <td> Estimation of carbon stored in  mangrove forest for the year  2011 using vegetation indices </td>
+<td> Mombasa </td>
  </tr>
 
 <tr>
@@ -125,6 +134,7 @@ tr:nth-child(odd) {
 <td> GEGIS </td>
 <td> Prof H Waithaka </td>
 <td>  A COMPARATIVE ANALYSIS  OF  CLASSICAL AHP AND FUZZY  AHP IN HIGH VOLTAGE TRANSMISSION  LINE ROUTING  A CASE STUDY OF PROPOSED MACHAKOS MWALA EKALAKALA TRANSMISSION LINE </td>
+<td> MACHAKOS </td>
  </tr>
 
 <tr>
@@ -134,6 +144,7 @@ tr:nth-child(odd) {
 <td> GEGIS </td>
 <td> Mr.H KIPKULEI </td>
 <td>Mapping Measles Vaccination coverage in western Kenya </td>
+<td> KAKAMEGA </td>
  </tr>
 
  <tr>
@@ -143,6 +154,7 @@ tr:nth-child(odd) {
 <td> GEGIS </td>
 <td> Dr N Agutu </td>
 <td> GIS FOR LANDSLIDE HAZARD ANALYSIS RISK ASSESMENT AND EVACUATION MAPPING </td>
+<td> West Pokot </td>
  </tr>
 
 <tr>
@@ -152,6 +164,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td> Mr C Watene </td>
 <td>POST-FIRE VEGETATION RECOVERY ASSESMENT: A CASE STUDY OF MOUNT KENYA REGION </td>
+<td> Laikipia </td>
 </tr>
 
 <tr>
@@ -161,6 +174,7 @@ tr:nth-child(odd) {
 <td> GEGIS </td>
 <td>  Dr N Agutu </td>
 <td> IMPACTS OF LAND USE AND LAND COVER CHANGE ON WETLAND .A CASE STUDY OF YALA WETLAND </td>
+<td> Siaya </td>
 </tr>
 
 <tr>
@@ -170,6 +184,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Mr.M Magondu </td>
 <td>IMPACTS OF HYDROGEOLOGICAL FEATURE ON GROUNDWATER NITRATES.CASE STUDY RUIRU</td>
+<td> Nairobi </td>
 </tr>
 
 <tr>
@@ -179,6 +194,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Mr G Watene</td>
 <td>DESERT LOCUST MONITORING AND INFESTATION IMPACT ASSESSMENT IN TURKANA COUNTY KENYA</td>
+<td> TURKANA </td>
 </tr>
 
 <tr>
@@ -188,6 +204,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Mr G Watene </td>
 <td> A GIS BASED PARKING MANAGEMENT SYSTEM AND GUIDANCE INFORMATION SYSTEM:A CASE STUDY OF NAIROBI CITY CENTRAL BUSINESS DISTRICT(CBD)</td>
+<td> Nairobi </td>
 </tr>
 
 <tr>
@@ -197,6 +214,7 @@ tr:nth-child(odd) {
 <td>GEGIS</td>
 <td>Dr C.Gaya </td>
 <td>ASSESING FLOODS VULNERABILITY USING GIS AND MULTI-CRITERIA DECISION MAKING METHOD:A CASE STUDY NAROK NORTH SUBCOUNTY</td>
+<td> NAROK </td>
 </tr>
 
 <tr>
@@ -205,7 +223,8 @@ tr:nth-child(odd) {
 <td>ENC222-0349/2016</td>
 <td>GEGIS</td>
 <td>Dr N Agutu </td>
-<td>Estimation of Sediment yield in the upper tanacatchment area using swat mode </td>
+<td>Estimation of Sediment yield in the upper tana catchment area using swat mode </td>
+<td> Meru </td>
 </tr>
 
 <tr>
@@ -215,6 +234,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Mr Magondu </td>
 <td>A WATER DISTRIBUTION SYSTEM FOR PIPE LEAKAGE HOTSPOT PRE-LOCALIZATION .</td>
+<td> Nairobi </td>
 </tr>
 
 <tr>
@@ -224,6 +244,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>       </td>
 <td>FOREST CARBON STOCK ESTIMATION USING SENTINEL-1.A CASE STUDY OF THE ABERDARE FOREST </td>
+<td> NYANDARUA </td>
 </tr>
 
 <tr>
@@ -233,6 +254,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Mr M Magondu </td>
 <td>Estimating the Energy Potential of Maize Residue</td>
+<td> UASINGISHU </td>
 </tr>
 
 
@@ -243,6 +265,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Mr J Mwaura </td>
 <td>IMPACT OF URBAN SPRAWL ON AGRICULTURAL PRODUCTION IN KESSES SUB COUNTY </td>
+<td> UASINGISHU </td>
 </tr>
 
 <tr>
@@ -252,6 +275,7 @@ tr:nth-child(odd) {
 <td>GEGIS</td>
 <td>Dr M Mwaniki </td>
 <td>Deformation Monitoring Using Differential interfermetry:Case Study of Mombasa Island </td>
+<td> MOMBASA </td>
 </tr>
 
 <tr>
@@ -261,6 +285,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Prof H Waithaka </td>
 <td>PERFORMANCE ANALYSIS OF VIRTUAL REFERENCE STATION.A case study of Kenya </td>
+<td> Nairobi </td>
  </tr>
 
 <tr>
@@ -269,7 +294,8 @@ tr:nth-child(odd) {
 <td>ENC281-0600/2015 </td>
 <td>GEGIS </td>
 <td>Prof H.Waithaka </td>
-<td>A WEB APPLICATION FOR DATUM TRANSFORMATION BETWEEN WGS 84 GPS COORDINATES AND LOCAL CLARKE 1880 COORDINATES  </td>
+<td>A WEB APPLICATION FOR DATUM TRANSFORMATION BETWEEN WGS 84 GPS COORDINATES AND LOCAL CLARKE 1880 COORDINATES </td>
+<td> Nairobi </td>
 </tr>
 
 <tr>
@@ -279,6 +305,7 @@ tr:nth-child(odd) {
 <td>GEGIS/td>
 <td>Dr.F.Mutua </td>
 <td> RURAL EARTH ROADS IMPROVEMENT PRIORITIZATION:A case study of Meru County </td>
+<td> Meru </td>
 </tr>
 
 <tr>
@@ -288,6 +315,7 @@ tr:nth-child(odd) {
 <td>GEGIS</td>
 <td> Dr N AGUTU </td>
 <td>SPATIO-TEMPORAL ANALYSIS OF ARIDITY CASE  STUDY OF MACHAKOS  MAKUENI  AND KITUI COUNTIES </td>
+<td> MACHAKOS </td>
 </tr>
 
 <tr>
@@ -297,6 +325,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td> Dr N Agutu </td>
 <td>CHARACTERIZNG AGRICULTURAL DROUGHTS IN KENYA ARID  AND SEMI ARID LANDS USING THE SOIL MOISTURE  AND AGRICULTURAL  DROUGHT INDEX </td>
+<td> TURKANA </td>
 </tr>
 
 <tr>
@@ -306,6 +335,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Dr N Agutu </td>
 <td>INFLUENCE OF EL NINO SOUTHERN OSCILLSTION AND INDIA OCEAN DIPOLE ON EXTREME WEATHER EVENTS.A case Study of Coastal Regions </td>
+<td> KWALE </td>
 </tr>
 
 <tr>
@@ -315,6 +345,7 @@ tr:nth-child(odd) {
 <td> GIS </td>
 <td>Dr N Agutu </td>
 <td>TREND ANALYSIS  AND ASSESMENT OF METEOROLOGICAL DROUGHT:A CASE STUDY OF NZOIA BASIN </td>
+<td> BUSIA </td>
 </tr>
 
 <tr>
@@ -324,6 +355,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Dr F Kirimi </td>
 <td> GLOBAL AND LOCAL REGRESSION MODELS IN YIELD ESTIMATION OF MAIZE FARMING CASE STUDY :TRANSNZOIA COUNTY </td>
+<td> TRANSNZOIA </td>
 </tr>
 
 <tr>
@@ -333,6 +365,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Dr F Kirimi </td>
 <td>ASSESING VULNERABLE AREAS OF STIMULATED DAM BREAK BY FLOOD ROUTING <td>
+<td> Siaya </td>
 </tr>
 
 <tr>
@@ -342,6 +375,7 @@ tr:nth-child(odd) {
 <td> GEGIS </td>
 <td>Mr M Magondu </td>
 <td>DEVELOPMENT OF A GIS BASED LAND INFORMATION SYSTEM CASE STUDYSHKIWA  REGISTRATION SECTION KAKAMEGA COUNTY </td>
+<td> KAKAMEGA </td>
 </tr>
 
 <tr>
@@ -351,6 +385,7 @@ tr:nth-child(odd) {
 <td> GEGIS </td>
 <td>Dr M Boitt </td>
 <td>MAPPING OF FRESHWATER SNAILS HABITAT AS A SOURCE OF TRANSMITTING BILHARZIA .A case study of Mwea Sub-county </td>
+<td> KIRINYAGA </td>
 </tr>
 
 <tr>
@@ -360,6 +395,7 @@ tr:nth-child(odd) {
 <td> GEGIS </td>
 <td>Dr.Mwaniki </td>
 <td>UNDERSTANDING THE CORRELATION BETWEEN GROUND SUBSIDENCE AND LAND DEGRADATION :A case study of Mutonga Area </td>
+<td> Meru </td>
 </tr>
 
 <tr>
@@ -369,6 +405,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Prof H Waithaka </td>
 <td>GEOSPATIAL TECHNIQUE AS A TOOL FOR HARNESSING FLOOD WATERS FOR FOOD SECURITY :A CASE STUDY OF TURKANA  COUNTY KENYA </td>
+<td> TURKANA </td>
 </tr>
 
 <tr>
@@ -378,6 +415,7 @@ tr:nth-child(odd) {
 <td> GIS </td>
 <td> Dr F kirimi </td>
 <td>Maize Crop Water Requirements for Irrigation Scheduling A case Study of Galana Kulalu Food Security Project Irrigation Scheme </td>
+<td> KILIFI </td>
 </tr>
 
 <tr>
@@ -387,6 +425,7 @@ tr:nth-child(odd) {
 <td> GIS </td>
 <td> Dr M Mwaniki </td>
 <td>AUTOMATED ROOFTOP EXTRACTION FOR RAINWATER HARVESTING CASE STUDY OF ELDORET MUNICIPALITY </td>
+<td> UASINGISHU </td>
 </tr>
 
 <tr>
@@ -396,6 +435,7 @@ tr:nth-child(odd) {
 <td> GEGIS </td>
 <td> Dr.M Boitt </td>
 <td>IMPACTS OF CLIMATE VARIABILITY ON HYDRO-ELECTRIC POWER GENERATION  A CASE STUDY OF SEVEN FOLKS DAMS IN UPPER TANA RIVER BASIN </td>
+<td> EMBU </td>
 </tr>
 
 <tr>
@@ -405,6 +445,7 @@ tr:nth-child(odd) {
 <td> GIS </td>
 <td>Dr M  Boitt </td>
 <td>VOLACNIC ERUPTION RISK ASSESMENT USING REMOTE SENSING AND GIS .A CASE STUDY OF MT.LONGONOT </td>
+<td> NAKURU </td>
 </tr>
 
 <tr>
@@ -414,6 +455,7 @@ tr:nth-child(odd) {
 <td>GIS </td>
 <td>Dr M Boitt </td>
 <td>IDENTIFICATION AND MAPPING OF ESSENTIALS FISH HABITATS USING REMOTE SENSING AND GIS CASE STUDY LAKE VICTORIA </td>
+<td> KISUMU </td>
 </tr>
 
 <tr>
@@ -424,7 +466,7 @@ tr:nth-child(odd) {
 <td>Dr .T.Ngigi </td>
 <td>Mapping and Monitoring the Yala Wetland Landscape Dynamics </td>
 </tr>
-
+<td> BUSIA </td>
 <tr>
 <td> Nelson </td>
 <td> Chumbe </td>
@@ -432,6 +474,7 @@ tr:nth-child(odd) {
 <td> GEGIS </td>
 <td> Dr A Imwati </td>
 <td>LAND DISPUTES AND THEIR IMPACT ON SOCIO-ECONOMIC DEVELOPMENT :A CASE STUDY OF JUJA SUB COUNTY </td>
+<td> Nairobi </td>
 </tr>
 
 <tr>
@@ -441,6 +484,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Mr C Wasomi </td>
 <td>Reduction of Traffic Congestion In Urban areas Using GIS techniques Case study :Nairobi City </td>
+<td> NAIROBI </td>
 </tr>
 
 <tr>
@@ -450,6 +494,7 @@ tr:nth-child(odd) {
 <td> GIS </td>
 <td> Dr.C Gaya </td>
 <td> SOIL LOSS AND FLOOD RISK ASSESMENT :A CASE STUDY IN TANA RIVER BASIN </td>
+<td> EMBU </td>
 </tr>
 
 <tr>
@@ -459,6 +504,7 @@ tr:nth-child(odd) {
 <td>GEGIS </td>
 <td>Dr C Gaya </td>
 <td>KeCADASTRE-A QGIS PLUGIN FOR AUTOMATING LAND SUBDIVISION </td>
+<td> UASINGISHU </td>
 </tr>
 
 <tr>
@@ -468,6 +514,7 @@ tr:nth-child(odd) {
 <td> GIS </td>
 <td> Dr C Gaya  </td>
 <td> FLOOD EXTENT ASSESMENT: CASE STUDY OF THE SIO RIVER DELTA </td>
+<td> BUSIA </td>
 </tr>
 
 <tr>
@@ -477,6 +524,7 @@ tr:nth-child(odd) {
 <td>Dr A Imwati </td>
 <td> GIS </td>
 <td> ASSESMENT ON THE LEVEL OF SOIL EROSION .THE CASE STUDYOF MARA BASIN </td>
+<td> NAROK </td>
 </tr>
 
 <tr>
@@ -486,6 +534,7 @@ tr:nth-child(odd) {
 <td> GIS </td>
 <td> Dr T Ngigi </td>
 <td>APPLICATION OF REMOTE SENSING AND GIS IN GROUND WATER EXPLORATION CASE STUDY KAJIADO EAST CONSTITUENCY </td>
+<td> KAJIADO </td>
  </tr>
 
 <tr>
@@ -495,6 +544,7 @@ tr:nth-child(odd) {
 <td>GIS </td>
 <td> Dr M Boitt </td>
 <td> MODELLING ANOMALLY DETECTABILITY ALOONG A PIPELINE ROUTE AND ITS EFFECTS TO ECOSYTEM COMPONENTS KIBOKO TOWN </td>
+<td> MAKUENI </td>
 </tr>
 
 <tr>
@@ -504,6 +554,7 @@ tr:nth-child(odd) {
 <td>GIS </td>
 <td>Dr M Boitt </td>
 <td> EVALUATION EXTENT OF LAND DEGRADATION IN KENYA CASE STUDY KERIO VALLEY
+<td> TURKANA </td>
 </tr>
 
 <tr>
@@ -512,7 +563,8 @@ tr:nth-child(odd) {
 <td> ENC222-0362/2016 </td>
 <td> GIS </td>
 <td> Dr .A Imwati </td>
-<td>DROUGHT ASSESMENT AND  ITS IMPACTS ON PASTROLISM .CASE STUDY OF MARSABBIT COUNTY </td>
+<td>DROUGHT ASSESMENT AND  ITS IMPACTS ON PASTROLISM .CASE STUDY OF MARSABIT COUNTY </td>
+<td> MARSABIT </td>
 </tr>
 
 <tr>
@@ -522,6 +574,7 @@ tr:nth-child(odd) {
 <td>GIS </td>
 <td>Mr C Wasomi </td>
 <td>CORRELATION OF LAND SURFACE DISPALCEMENT WITH ARISING WATER LEVELS USING SENTINEL -1 INSAR AND LANDSAT 8 IN LAKE NAKURU BASIN
+<td> NAKURU </td>
 </tr>
 
 </table>
