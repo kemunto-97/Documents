@@ -2,11 +2,38 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>NEW html</title>
+<title>ASSIGNMENT 2</title>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+  }
+    #map {
+    height:500px;
+    width:100%
+  }
+</style>
 </head>
 <body style="background-color:white;">
+<div id="map"></div>
+
+<script>
+ function initMap() {
+   var location =  {lat: -1.292066, lng: 36.821945};
+   var map = new google.maps.Map(document.getElementById("map"), {
+     zoom: 4,
+     center: location
+      });
+   var marker = new google.maps.Marker({
+     position: location,
+     map: map
+     });
+ }
+</script>
+<script async defer src="https://www.google.com/maps/d/edit?hl=en&hl=en&mid=1gUdKwon9sCnoowPQ3yfxv1TU3LdH6kci&ll=0.32766638782933155%2C36.73223226562504&z=7"></script>
 <h1>FINAL YEAR PROJECT PROPOSALS </h1>
 <h2>ENC221-0300/2016</h2>
+/*
 <style>
 table {
 font-family: "Times New Roman", Times, serif;
@@ -579,6 +606,7 @@ tr:nth-child(odd) {
 
 </table>
 <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8171118.372634954!2d33.40593248438267!3d0.15408347522438817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182780d08350900f%3A0x403b0eb0a1976dd9!2sKenya!5e0!3m2!1sen!2ske!4v1625477779826!5m2!1sen!2ske" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p>
+
 
 
 </body>
